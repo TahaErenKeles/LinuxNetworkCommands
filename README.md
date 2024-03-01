@@ -2,7 +2,7 @@
 # CSE471 HW
 | Command      | Description                                                                      | Example |
 |--------------|----------------------------------------------------------------------------------|---------|
-| `ifconfig`   | Ağ arayüzlerini yapılandırmak ve görüntülemek için kullanılır.                   |         |
+| `ifconfig`   | Ağ arayüzlerini yapılandırmak ve görüntülemek için kullanılır.                   | ![image](https://github.com/TahaErenKeles/LinuxNetworkCommands/assets/81023298/009e2cd6-73e4-4e4a-8afd-0cb98c3d8591)|
 | `ip`         | Ağ arayüzleri ve IP adreslerini yönetmek için kullanılır.                        |         |
 | `netstat`    | Ağ bağlantıları, yönlendirme tabloları, arayüz istatistikleri gibi bilgileri gösterir. |         |
 | `ping`       | Uzak bir hosta ICMP Echo Request göndererek erişilebilirliğini kontrol eder.     |         |
